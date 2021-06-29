@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WORKSPACE\\c_sharp_workspace\\csharp-completo\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
+    "C:\\Users\\mateus.mourao\\_workspace\\csharp-completo\\SalesWebMvc\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "C:\\WORKSPACE\\c_sharp_workspace\\csharp-completo\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
+    "C:\\Users\\mateus.mourao\\_workspace\\csharp-completo\\SalesWebMvc\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WORKSPACE\\c_sharp_workspace\\csharp-completo\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectUniqueName": "C:\\Users\\mateus.mourao\\_workspace\\csharp-completo\\SalesWebMvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
-        "projectPath": "C:\\WORKSPACE\\c_sharp_workspace\\csharp-completo\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
-        "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\WORKSPACE\\c_sharp_workspace\\csharp-completo\\SalesWebMvc\\SalesWebMvc\\obj\\",
+        "projectPath": "C:\\Users\\mateus.mourao\\_workspace\\csharp-completo\\SalesWebMvc\\SalesWebMvc.csproj",
+        "packagesPath": "C:\\Users\\mateus.mourao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateus.mourao\\_workspace\\csharp-completo\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mateus.mourao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,26 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

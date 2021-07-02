@@ -1,13 +1,16 @@
 ﻿@model IEnumerable<SalesWebMvc.Models.Seller>
 
 @{ 
-    ViewData["Tittle"] = "Sellers";
+    ViewData["Title"] = "Sellers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>@ViewData["Tittle"]</h2>
+<link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap-united.css" />
+
+<h2>@ViewData["Title"]</h2>
 
 <p>
-    <a asp-action="Create" class="btn btn-default">Create New</a>
+    <a asp-action="Create" class="btn btn-info">Create New</a>
 </p>
 
 <table class="table table-striped table-hover">
@@ -29,9 +32,9 @@
             <td>@Html.DisplayFor(modelItem => item.BirthDate)</td>
             <td>@Html.DisplayFor(modelItem => item.BaseSalary)</td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
-                <a asp-action="Edit" asp-route-id="@item.Id">Details</a>
-                <a asp-action="Edit" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> | 
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> | 
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
             </td>
         </tr>
         }

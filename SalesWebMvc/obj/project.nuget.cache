@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pu1U8TplO3ippCJer6BbIDSrWx+9na8IXEQAIvXzMyl30T5kAKNNSFewZoajYWhGO2NEcngmUFWhafM0wx+lqg==",
+  "dgSpecHash": "h3zbpHhTm4hnqVobSEkEjwlyrhzQ9WBmQIMi6FW42KD+zPpAWWWRgCQUZp6G6bLU7Ki5L+DU9vX5xY9m1CF60A==",
   "success": true,
   "projectFilePath": "C:\\Users\\mateus.mourao\\_workspace\\csharp-completo\\SalesWebMvc\\SalesWebMvc.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mateus.mourao\\.nuget\\packages\\bootstrap\\5.0.2\\bootstrap.5.0.2.nupkg.sha512",
     "C:\\Users\\mateus.mourao\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mateus.mourao\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\mateus.mourao\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

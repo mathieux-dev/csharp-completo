@@ -141,7 +141,6 @@ C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\R
 C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Sellers\Index.cshtml.g.cs
 C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
@@ -153,3 +152,8 @@ C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\S
 C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\ref\SalesWebMvc.dll
 C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\SalesWebMvc.pdb
 C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\SalesWebMvc.genruntimeconfig.cache
+C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Sellers\Details.cshtml.g.cs
+C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\mateus.mourao\_workspace\csharp-completo\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
